@@ -8,7 +8,7 @@ This project demonstrates how Business Intelligence can be used to support data-
 
 ## 📷Dashboard Preview
 
-![Sales & Revenue Dashboard](https://github.com/ishita1124/Sales-Revenue-Analytics-Dashboard-Project/blob/main/Dashboard/Dashboard_Overview.png)
+![Sales & Revenue Dashboard](Dashboard/Dashboard_Overview.png)
 
 ## 🎯 Problem Statement
 
@@ -98,7 +98,7 @@ A centralized dashboard is required to monitor business performance, identify gr
 
 Detailed project documentation, methodology, dashboard explanation, insights, and business recommendations are available in:
 
-Documentation/Sales_Revenue_Analytics_Report.pdf
+[View Complete Project Documentation](Documentation/Sales_Revenue_Analytics_Report.pdf)
 
 ## ✅ Project Outcome
 
