@@ -8,7 +8,7 @@ This project demonstrates how Business Intelligence can be used to support data-
 
 ## 📷Dashboard Preview
 
-![Sales & Revenue Dashboard](<img width="1043" height="602" alt="Screenshot 2026-06-06 230727" src="https://github.com/user-attachments/assets/39addeb2-197e-46b1-ac5b-671aafc048b0" />)
+![Sales & Revenue Dashboard](https://github.com/ishita1124/Sales-Revenue-Analytics-Dashboard-Project/blob/main/Dashboard/Dashboard_Overview.png)
 
 ## 🎯 Problem Statement
 
